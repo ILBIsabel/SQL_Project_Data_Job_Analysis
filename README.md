@@ -1,5 +1,5 @@
 # Introduction
-📊 Jump into the data job market with me! Focusing on data analyst roles, this project dives deep into the job market to investigate which roles offer the highest salaries, which skilla are most in demand, and where those two intersect to highlight the most strategic paths for aspiring data analysts.
+📊 Jump into the data job market with me! Focusing on data analyst roles, this project dives deep into the job market to investigate which roles offer the highest salaries, which skills are most in demand, and where those two intersect to highlight the most strategic paths for aspiring data analysts.
 
 Check out the SQL queries here: [project_sql folder](/project_sql/) 
 # Background
